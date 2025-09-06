@@ -4,7 +4,7 @@ Made with React with Hooks.
 
 ## Getting started
 
-You can view a live demo over at :...............
+You can view a live demo over at :(https://birthday-rohit.netlify.app/)
 
 To get It running locally:
 
@@ -14,10 +14,10 @@ To get It running locally:
 
 ## Usage:
 
-Visit [...........]()
+Visit [[...........](https://birthday-rohit.netlify.app/)]()
 
 Click on Generate Link
-or Head to [................./generate]()
+or Head to https://birthday-rohit.netlify.app/
 
 Enter the `name , day , month of birthday`
 
